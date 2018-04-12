@@ -1,1 +1,3 @@
-ITDEV162-Client-Server-and-E-Commerce-Implementation
+ITDEV162 Client/Server & E-Commerce Implementation
+------
+### MATC Fall 2018
